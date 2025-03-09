@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Typingstem-1.0";
 const contentToCache = [
-    "Build/タイピングゲームフィールド.loader.js",
-    "Build/タイピングゲームフィールド.framework.js.br",
-    "Build/タイピングゲームフィールド.data.br",
-    "Build/タイピングゲームフィールド.wasm.br",
+    "Build/TypingGameWithPalpanthia.loader.js",
+    "Build/TypingGameWithPalpanthia.framework.js.br",
+    "Build/TypingGameWithPalpanthia.data.br",
+    "Build/TypingGameWithPalpanthia.wasm.br",
     "TemplateData/style.css"
 
 ];
